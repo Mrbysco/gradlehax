@@ -23,7 +23,7 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath 'net.neoforged.gradle:userdev:7.0.57'
+        classpath 'net.neoforged.gradle:userdev:7.0.107'
     }
 
 }
